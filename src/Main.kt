@@ -7,4 +7,5 @@ fun main() {
 
     println("Deck length")
     println(deck.size)
+    println(deck.size)
 }
